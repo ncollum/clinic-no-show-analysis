@@ -3,3 +3,4 @@ data/raw/
 .env
 __pycache__/
 .DS_Store
+data/processed/appointment_details.csv

@@ -1,0 +1,4 @@
+reason,rejected_rows
+Age outside 0 to 120,1
+Appointment date is before the booking date,5
+PatientId is not a whole number,5
